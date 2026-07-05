@@ -2,6 +2,8 @@
 
 - 🌱 Learning Full Stack Web App Development, Scalable Software Architecture
 
+- 🔭 Projects: [softwarejutsu.com](https://softwarejutsu.vercel.app) | [LeetCode JS Playground](https://github.com/rickvian/leetcode-javascript-practice-playground)
+
 - Languages: Javascript/Typescript, Golang, PHP, Java, Python, HTML, CSS
   
 - Stacks/Libs:
