@@ -1,4 +1,4 @@
-Trying to do better everyday
+Trying to do better everyday.
 Trying to help you better 
 
 Get to know me more:
