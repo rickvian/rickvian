@@ -4,7 +4,7 @@ Trying to help you better
 Get to know me more:
 
 - [LinkedIn here](https://www.linkedin.com/in/rickvianaldi/)
-- [softwarejutsu.com](https://softwarejutsu.com) - My tech blog - The art of software
+- [softwarejutsu.com](https://softwarejutsu.com) - My tech blog - The art of software, where i share about software engineering and development
 
 Projects:
 - [LeetCode JS Playground](https://github.com/rickvian/leetcode-javascript-practice-playground) - Leetcode test scenarios, your playground to debug JS within your local IDE 
