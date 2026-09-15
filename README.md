@@ -1,4 +1,7 @@
-### Hi there 👋
+Trying to do better everyday
+Trying to help you better 
+
+Get to know me more:
 
 - [LinkedIn here](https://www.linkedin.com/in/rickvianaldi/)
 - [softwarejutsu.com](https://softwarejutsu.com) - My tech blog - The art of software
